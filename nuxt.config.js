@@ -1,4 +1,7 @@
 export default {
+  // 自定义打包路径
+  buildDir: 'nuxt-dist',
+
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'exploreNuxt',
@@ -18,7 +21,7 @@ export default {
 
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
-    '@/assets/css/tailwind.css'
+    '~/assets/css/tailwind.css'
   ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins

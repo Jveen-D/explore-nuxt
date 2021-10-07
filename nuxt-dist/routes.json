@@ -1,0 +1,20 @@
+[
+  {
+    "name": "01routerComPage",
+    "path": "/01routerComPage",
+    "component": "C:\\\\Users\\\\Administrator.DESKTOP-D4G8S64\\\\Desktop\\\\Vvvvv\\\\explore-nuxt\\\\pages\\\\01routerComPage.vue",
+    "chunkName": "pages/01routerComPage"
+  },
+  {
+    "name": "02layout",
+    "path": "/02layout",
+    "component": "C:\\\\Users\\\\Administrator.DESKTOP-D4G8S64\\\\Desktop\\\\Vvvvv\\\\explore-nuxt\\\\pages\\\\02layout.vue",
+    "chunkName": "pages/02layout"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Administrator.DESKTOP-D4G8S64\\\\Desktop\\\\Vvvvv\\\\explore-nuxt\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
